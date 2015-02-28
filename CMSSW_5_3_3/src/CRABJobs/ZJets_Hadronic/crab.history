@@ -1,0 +1,76 @@
+130514_174505: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -create
+130514_174739: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -submit
+130514_184134: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130514_210818: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_032243: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_032305: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -getoutput
+130515_032316: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_032336: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -resubmit 1-18,20-23,25-27,31-32,38-39,43-94,127-129,132-218,220-222,231,298-299,348-349,352-399,498-499,547-549,552-598,653,700-702,729-796
+130515_032857: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_034144: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_034628: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_034648: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_034707: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -resubmit 400-423,507,599,654-699,703-728,797-798
+130515_034718: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_034735: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_034749: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_034807: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_034842: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -resubmit 400-423,507,599,654-699,703-728,797-798
+130515_034908: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_034924: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -forceResubmit 400-423,507,599,654-699,703-728,797-798
+130515_034939: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_034957: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_035021: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -forceResubmit 725-728,797-798
+130515_035033: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_035044: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_035103: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_035147: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_035317: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_035406: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_035649: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_035733: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_035854: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_035923: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_040241: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_040358: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_041956: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_044704: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_044726: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_045744: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_142922: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_143103: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_143320: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -getoutput
+130515_143420: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_143446: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -forceResubmit 1-18,20-23,25,27-29,31-32,34-38,40,42-44,46-50,52-54,56,60,67,96-99,101,103-127,130-132,137,139,141-177,180-198,200,228,232-234,237-243,246-341,343-344,346,348-370,372-382,384,387-399,403,405-406,408,410,423,498-499,547-549,552-555,558-559,562-569,571-581,583-593,595-597,599,603,612-613,616,619-620,624,626,639,645,648-649,651-656,659-662,666-671,674-683,685-687,690-691,694-698,703,705,707-708,710-712,714-715,718-719,721-722,729-730,732,734-735,737-742,744-754,756-765,769,772-788,790-794,796
+130515_143459: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_143812: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_143839: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -forceResubmit 1-18,20-23,25,27-29,31-32,34-38,40,42-44,46-50,52-54,56,60,67,96-99,101,103-127,130-132,137,139,141-177,180-198,200,228,232-234,237-243,246-341,343-344,346,348-370,372-382,384,387-399,403,405-406,408,410,423,498-499,547-549,552-555,558-559,562-569,571-581,583-593,595-597,599,603,612-613,616,619-620,624,626,639,645,648-649,651-656,659-662,666-671,674-683,685-687,690-691,694-698,703,705,707-708,710-712,714-715,718-719,721-722,729-730,732,734-735,737-742,744-754,756-765,769,772-788,790-794,796
+130515_162325: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_162401: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -report
+130515_162703: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -report
+130515_162730: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_162940: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_163059: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -forceResubmit 772-788, 790-794,796,756,765,348-370
+130515_163346: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_163419: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_163445: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -forceResubmit 103-127
+130515_163514: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -forceResubmit 348-370
+130515_163525: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_163543: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_164638: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_170806: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_171353: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_171428: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -forceResubmit 571-581
+130515_171505: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -forceResubmit 246-341
+130515_173615: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_174007: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_174514: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_181522: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_201840: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_214719: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_220618: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130515_220659: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -getoutput
+130515_232801: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130516_000511: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_8_7_patch2/python/crab.py -status
+130911_182204: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_9_0/python/crab.py -status
+130911_184322: /afs/cern.ch/cms/ccs/wm/scripts/Crab/CRAB_2_9_0/python/crab.py -status

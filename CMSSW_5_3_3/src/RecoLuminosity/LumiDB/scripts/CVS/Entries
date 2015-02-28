@@ -1,0 +1,25 @@
+/applyCalibration.py/1.1/Fri Apr 30 18:33:52 2010//TV04-01-09
+/csvLumiCalc.py/1.1/Mon Oct 25 19:31:58 2010//TV04-01-09
+/dumpFill.py/1.6/Thu Mar  1 18:38:43 2012//TV04-01-09
+/dumpRunInfo.py/1.6/Thu Aug  5 09:57:10 2010//TV04-01-09
+/dumpTrg.py/1.4/Tue Sep 21 14:57:17 2010//TV04-01-09
+/dumpWBM.py/1.5/Tue Sep 21 14:57:17 2010//TV04-01-09
+/estimatePileup.py/1.10/Fri Mar 23 02:53:17 2012//TV04-01-09
+/estimatePileup2.py/1.6/Tue Aug  9 13:35:15 2011//TV04-01-09
+/estimatePileup_makeJSON.py/1.4/Fri Mar 23 02:53:17 2012//TV04-01-09
+/lumiCalc2.py/1.50/Wed Oct 10 17:07:48 2012//TV04-01-09
+/lumiContext.py/1.16/Tue Jul 17 17:48:59 2012//TV04-01-09
+/lumiDBFiller.py/1.17/Wed Apr  4 15:15:19 2012//TV04-01-09
+/lumiData2.py/1.1/Tue Mar 13 19:02:54 2012//TV04-01-09
+/lumiNorm.py/1.6/Thu Jul 12 09:32:23 2012//TV04-01-09
+/lumiPatch.py/1.2/Fri Jul  2 20:16:59 2010//TV04-01-09
+/lumiPlot.py/1.19/Mon Sep  3 10:18:21 2012//TV04-01-09
+/lumiSchema.py/1.27/Mon Oct 11 17:34:08 2010//TV04-01-09
+/lumiTag.py/1.2/Thu Jul 12 09:32:23 2012//TV04-01-09
+/lumidb2Schema.py/1.4/Fri Jul  8 16:07:00 2011//TV04-01-09
+/pileupCalc.py/1.4/Mon May 14 02:47:52 2012//TV04-01-09
+/pileupReCalc_HLTpaths.py/1.4/Fri May 18 20:19:39 2012//TV04-01-09
+/pixelLumiCalc.py/1.13/Wed Oct 10 17:08:29 2012//TV04-01-09
+/specificLumi.py/1.27/Thu Jul 12 09:32:23 2012//TV04-01-09
+/summaryLumi.py/1.10/Thu Jul 12 09:32:23 2012//TV04-01-09
+D

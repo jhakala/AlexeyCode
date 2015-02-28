@@ -1,0 +1,4 @@
+-server_name=default
+-use_server=1
+-jobtype=cmssw
+-scheduler=glite

@@ -1,0 +1,15 @@
+/HBHENoiseFilterResultProducer_cfi.py/1.8/Tue Jul  3 09:11:48 2012//TV00-03-23
+/HBHENoiseFilter_cfi.py/1.10/Tue Jul  3 09:11:48 2012//TV00-03-23
+/LargestEtCaloJetSelector_cfi.py/1.2/Thu Mar  4 05:42:58 2010//TV00-03-23
+/LargestEtPFJetSelector_cfi.py/1.1/Thu Feb  9 09:38:39 2012//TV00-03-23
+/TrackWithVertexRefSelector_cfi.py/1.2/Thu May  6 12:06:19 2010//TV00-03-23
+/TrackWithVertexSelectorParams_cff.py/1.1/Thu May  6 12:06:19 2010//TV00-03-23
+/TrackWithVertexSelector_cfi.py/1.2/Thu May  6 12:06:19 2010//TV00-03-23
+/caloJetSelector_cfi.py/1.1/Mon Nov 15 17:52:44 2010//TV00-03-23
+/etMinCaloJetSelector_cfi.py/1.1/Mon Nov 15 17:52:21 2010//TV00-03-23
+/etMinPFJetSelector_cfi.py/1.1/Thu Feb  9 09:26:05 2012//TV00-03-23
+/hltChargedRefCandidateProducer_cfi.py/1.1/Mon Sep 26 13:12:49 2011//TV00-03-23
+/pfJetSelector_cfi.py/1.1/Thu Feb  9 09:26:06 2012//TV00-03-23
+/recoTrackRefSelector_cfi.py/1.1/Tue Oct 13 12:07:49 2009//TV00-03-23
+/trackingParticleRefSelector_cfi.py/1.2/Thu Jun 16 22:40:08 2011//TV00-03-23
+D

@@ -1,0 +1,13 @@
+/CandidateProducer.h/1.4/Thu Feb 11 00:10:53 2010//TV00-03-23
+/ClusterStorer.cc/1.5/Tue Jan 17 10:44:14 2012//TV00-03-23
+/MassiveCandidateConverter.cc/1.2/Thu Jan 14 22:49:48 2010//TV00-03-23
+/MassiveCandidateConverter.h/1.2/Thu Jan 14 22:49:48 2010//TV00-03-23
+/MuonSelector.cc/1.4/Tue Jan 17 10:44:14 2012//TV00-03-23
+/PFClusterToRefCandidate.h/1.2/Wed Mar 21 22:21:08 2012//TV00-03-23
+/StandAloneMuonTrackToCandidate.h/1.1/Wed Mar  4 13:11:31 2009//TV00-03-23
+/SuperClusterToCandidate.h/1.1/Wed Mar  4 13:11:31 2009//TV00-03-23
+/TrackSelector.cc/1.2/Wed Dec  9 16:00:33 2009//TV00-03-23
+/TrackToCandidate.h/1.1/Wed Mar  4 13:11:31 2009//TV00-03-23
+/TrackToRefCandidate.h/1.1/Tue Nov 24 03:47:26 2009//TV00-03-23
+/TrackWithVertexSelector.cc/1.4/Thu May  6 12:06:19 2010//TV00-03-23
+D

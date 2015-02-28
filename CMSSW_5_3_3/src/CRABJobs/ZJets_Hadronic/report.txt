@@ -1,0 +1,26 @@
+crab:  Version 2.8.7 running on Wed May 15 16:27:03 2013 CET (14:27:03 UTC)
+
+crab. Working options:
+	scheduler           glite
+	job type            CMSSW
+	server              ON (default)
+	working directory   /data1/aferapon/BH/BlackHolesAnalysis_8TeV/BlackHolesAnalysis_533_PF/CMSSW_5_3_3/src/CRABJobs/ZJets_Hadronic/crab_0_130514_174505/
+
+crab:  --------------------
+Dataset: /ZJetsFullyHadronic_Ht100_Pt50_Pt30_deta22_Mqq200_8TeV-madgraph/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM
+Local output: /data1/aferapon/BH/BlackHolesAnalysis_8TeV/BlackHolesAnalysis_533_PF/CMSSW_5_3_3/src/CRABJobs/ZJets_Hadronic/crab_0_130514_174505/res/
+Total Events read: 3329317
+Total Files read: 325
+Total Jobs : 798
+Luminosity section summary file: /data1/aferapon/BH/BlackHolesAnalysis_8TeV/BlackHolesAnalysis_533_PF/CMSSW_5_3_3/src/CRABJobs/ZJets_Hadronic/crab_0_130514_174505/res/lumiSummary.json
+   # Jobs: Created:466
+   # Jobs: Scheduled:7
+   # Jobs: Cleared:325
+
+----------------------------
+
+crab:  Summary file of input run and lumi to be analize with this task: /data1/aferapon/BH/BlackHolesAnalysis_8TeV/BlackHolesAnalysis_533_PF/CMSSW_5_3_3/src/CRABJobs/ZJets_Hadronic/crab_0_130514_174505/res//inputLumiSummaryOfTask.json
+
+crab:  to complete your analysis, you have to analyze the run and lumi reported in the /data1/aferapon/BH/BlackHolesAnalysis_8TeV/BlackHolesAnalysis_533_PF/CMSSW_5_3_3/src/CRABJobs/ZJets_Hadronic/crab_0_130514_174505/res//missingLumiSummary.json file
+
+Log file is /data1/aferapon/BH/BlackHolesAnalysis_8TeV/BlackHolesAnalysis_533_PF/CMSSW_5_3_3/src/CRABJobs/ZJets_Hadronic/crab_0_130514_174505/log/crab.log

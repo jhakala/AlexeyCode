@@ -1,0 +1,14 @@
+/ClusterStorer.h/1.1/Wed Dec  9 15:58:42 2009//TV00-03-23
+/CosmicTrackingParticleSelector.h/1.3/Thu Oct 27 12:52:48 2011//TV00-03-23
+/GsfElectronSelector.h/1.5/Mon Sep 27 07:48:51 2010//TV00-03-23
+/HBHENoiseFilter.h/1.6/Tue Jul  3 09:11:47 2012//TV00-03-23
+/MuonSelector.h/1.2/Wed Dec  9 16:00:33 2009//TV00-03-23
+/PhotonSelector.h/1.1/Wed Mar  4 13:11:28 2009//TV00-03-23
+/PixelMatchGsfElectronSelector.h/1.1/Wed Mar  4 13:11:28 2009//TV00-03-23
+/RecoTrackRefSelector.h/1.2/Thu Feb 11 00:10:49 2010//TV00-03-23
+/RecoTrackSelector.h/1.3/Thu Feb 11 00:10:50 2010//TV00-03-23
+/TrackFullCloneSelectorBase.h/1.3/Thu Feb 11 00:10:51 2010//TV00-03-23
+/TrackSelector.h/1.2/Wed Dec  9 16:00:33 2009//TV00-03-23
+/TrackWithVertexSelector.h/1.5/Thu May  6 12:06:19 2010//TV00-03-23
+/TrackingParticleSelector.h/1.4/Thu May 17 16:12:35 2012//TV00-03-23
+D

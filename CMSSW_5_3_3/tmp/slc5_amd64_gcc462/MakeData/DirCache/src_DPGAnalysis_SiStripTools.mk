@@ -1,0 +1,2 @@
+ALL_PACKAGES += $(patsubst src/%,%,src/DPGAnalysis/SiStripTools)
+subdirs_src_DPGAnalysis_SiStripTools := src_DPGAnalysis_SiStripTools_src src_DPGAnalysis_SiStripTools_bin src_DPGAnalysis_SiStripTools_plugins src_DPGAnalysis_SiStripTools_test src_DPGAnalysis_SiStripTools_python
